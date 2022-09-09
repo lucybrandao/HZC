@@ -2,9 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/39086256/189419064-e5aefea1-d8d0-41d0-8e68-a51dc65a97d5.png)
 
-![image](https://user-images.githubusercontent.com/39086256/189419227-c20b4187-782d-4aeb-bf0d-bebf99b22e42.png)
-![image](https://user-images.githubusercontent.com/39086256/189419385-fcd963b8-f318-4364-a153-a459f0a49dbd.png)
-
 
 Toda a estilização que será usada no projeto dentro do figma.
 
